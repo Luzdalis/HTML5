@@ -41,3 +41,18 @@ a{
     font-weight: Black;
     color: #0037B3;
 }
+
+img{
+    width: 883px;
+    height: 374px;
+}
+
+iframe{
+    width: 883px;
+    height: 497px; 
+}
+
+span{
+    margin-top: 34px;
+    margin-bottom: 34px;
+}
