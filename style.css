@@ -5,13 +5,13 @@ h1{
     color:#FFB300;
 }
 
-span{
+p{
     color:black;
     font-size: 21px;
     font-weight: bold;
 }
 
-p{
+div{
     font-size: 21px;
     font-weight: 549
     line-height: 1.61;
@@ -22,4 +22,22 @@ h2{
     font-size: 34px;
     color:#FFB300;
     font-weight: Bold;
+}
+
+ul{
+    font-size: 21px;
+    font-weight: 549;
+    line-height: 21px*1.61;
+}
+
+ol{
+    font-size: 21px;
+    font-weight: 549;
+    line-height: 21px*1.61;
+}
+
+a{
+    font-size: 21px;
+    font-weight: Black;
+    color: #0037B3;
 }
