@@ -1,0 +1,25 @@
+h1{
+    line-height: 79px;
+    font-size: 89px;
+    font-weight: black;
+    color:#FFB300;
+}
+
+span{
+    color:black;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 21px;
+    font-weight: 549
+    line-height: 1.61;
+    color:black;
+}
+
+h2{
+    font-size: 34px;
+    color:#FFB300;
+    font-weight: Bold;
+}
