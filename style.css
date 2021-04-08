@@ -25,11 +25,11 @@ p,div{
     color:black;
 }
 
-p.bold,a.bold,strong.bold{
+.bold{
     font-weight: 900;
 }
 
-p.semibold,ul.semibold,ol.semibold{
+.semibold{
     font-weight: 600;
 }
 
